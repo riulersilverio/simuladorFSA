@@ -111,7 +111,7 @@ def inicializar_dados_times_st():
             {'nome': 'Cienciano', 'pontos': 9, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Escudo_Cienciano.png/960px-Escudo_Cienciano.png'},
             {'nome': 'Atlético Mineiro', 'pontos': 8, 'jogos': 5, 'gp': 10, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Atletico_mineiro_galo.png'},
             {'nome': 'Caracas FC', 'pontos': 5, 'jogos': 5, 'gp': 7, 'gc': 10, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/f/f4/Caracas_FC.png'},
-            {'nome': 'Deportes Iquique', 'pontos': 4, 'jogos': 5, 'gp': 6, 'gc': 14, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/f/f4/Caracas_FC.png'},
+            {'nome': 'Deportes Iquique', 'pontos': 4, 'jogos': 5, 'gp': 6, 'gc': 14, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/5/5d/DeportesIquique.png'},
         ],
     }
 
