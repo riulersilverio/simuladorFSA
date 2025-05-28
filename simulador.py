@@ -54,7 +54,7 @@ def inicializar_dados_times_st():
         "G": [
             {'nome': 'Palmeiras', 'pontos': 15, 'jogos': 5, 'gp': 11, 'gc': 4, 'escudo_url': 'https://s.sambafoot.com/teams/64_20231206044820.svg'},
             {'nome': 'Cerro Porteño', 'pontos': 7, 'jogos': 5, 'gp': 7, 'gc': 7, 'escudo_url': ''},
-            {'nome': 'Sporting Cristal', 'pontos': 3, 'jogos': 5, 'gp': 6, 'gc': 10, 'escudo_url': ''},
+            {'nome': 'Sporting Cristal', 'pontos': 4, 'jogos': 5, 'gp': 6, 'gc': 10, 'escudo_url': ''},
             {'nome': 'Bolívar', 'pontos': 3, 'jogos': 5, 'gp': 8, 'gc': 11, 'escudo_url': ''},
         ],
         "H": [
