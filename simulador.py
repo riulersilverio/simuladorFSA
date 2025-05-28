@@ -91,7 +91,7 @@ def inicializar_dados_times_st():
         ],
         "E": [
             {'nome': 'Mushuc Runa', 'pontos': 13, 'jogos': 5, 'gp': 10, 'gc': 4, 'escudo_url': ''},
-            {'nome': 'Palestino', 'pontos': 4, 'jogos': 5, 'gp': 5, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/72/CDPalestino.png'},
+            {'nome': 'Palestino', 'pontos': 9, 'jogos': 5, 'gp': 5, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/72/CDPalestino.png'},
             {'nome': 'Cruzeiro', 'pontos': 4, 'jogos': 5, 'gp': 2, 'gc': 7, 'escudo_url': ''},
             {'nome': 'Unión', 'pontos': 3, 'jogos': 5, 'gp': 5, 'gc': 8, 'escudo_url': ''},
         ],
