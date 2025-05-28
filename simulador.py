@@ -350,7 +350,7 @@ def main():
         with col_listas1:
             display_playoff_lists_st(terceiros_lib, "Melhores 3ºs da Libertadores")
         with col_listas2:
-            display_playoff_lists_st(segundos_sula, "2ºs da Sul-Americana (Pior para Melhor Campanha)")
+            display_playoff_lists_st(segundos_sula, "2ºs da Sul-Americana")
         st.markdown("---")
         display_playoff_matchups_st(terceiros_lib, segundos_sula)
     else:
