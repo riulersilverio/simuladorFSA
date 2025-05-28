@@ -18,7 +18,7 @@ def inicializar_dados_times_st():
         "A": [
             {'nome': 'Estudiantes', 'pontos': 12, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Escudo_del_Club_Estudiantes_de_La_Plata.svg/824px-Escudo_del_Club_Estudiantes_de_La_Plata.svg.png'},
             {'nome': 'Botafogo', 'pontos': 12, 'jogos': 6, 'gp': 8, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Escudo_Botafogo.png'},
-            {'nome': 'Universidad de Chile', 'pontos': 10, 'jogos': 6, 'gp': 8, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/5/50/C.F._Universidad_de_Chile_logo.png'},
+            {'nome': 'Universidad de Chile', 'pontos': 10, 'jogos': 6, 'gp': 8, 'gc': 6, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/5/50/C.F._Universidad_de_Chile_logo.png'},
             {'nome': 'Carabobo', 'pontos': 1, 'jogos': 6, 'gp': 2, 'gc': 13, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/8/88/Carabobo_F.C.png'},
         ],
         "B": [
@@ -42,7 +42,7 @@ def inicializar_dados_times_st():
         "E": [
             {'nome': 'Racing Club', 'pontos': 10, 'jogos': 5, 'gp': 13, 'gc': 3, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/1686px-Escudo_de_Racing_Club_%282014%29.svg.png'},
             {'nome': 'Fortaleza', 'pontos': 8, 'jogos': 5, 'gp': 8, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Escudo_do_Fortaleza_EC.png'},
-            {'nome': 'Atlético Bucaramanga', 'pontos': 2, 'jogos': 5, 'gp': 6, 'gc': 9, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/3b/CAtl%C3%A9ticoBucaramangaCD.png'},
+            {'nome': 'Atlético Bucaramanga', 'pontos': 6, 'jogos': 5, 'gp': 6, 'gc': 9, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/3b/CAtl%C3%A9ticoBucaramangaCD.png'},
             {'nome': 'Colo-Colo', 'pontos': 2, 'jogos': 5, 'gp': 4, 'gc': 15, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/e/e8/Colo-Colo_Futbol_Club.png'},
         ],
         "F": [
@@ -61,20 +61,20 @@ def inicializar_dados_times_st():
             {'nome': 'Vélez Sarsfield', 'pontos': 10, 'jogos': 5, 'gp': 11, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/2/21/Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg'},
             {'nome': 'Peñarol', 'pontos': 10, 'jogos': 5, 'gp': 9, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Escudo_de_Pe%C3%B1arol.svg/1200px-Escudo_de_Pe%C3%B1arol.svg.png'},
             {'nome': 'San Antonio Bulo Bulo', 'pontos': 6, 'jogos': 5, 'gp': 5, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/c/c8/CD_San_Antonio_Bulo_Bulo.png'},
-            {'nome': 'Olimpia', 'pontos': 2, 'jogos': 5, 'gp': 6, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_de_Olimpia_2022_PNG_HD.png'},
+            {'nome': 'Olimpia', 'pontos': 2, 'jogos': 5, 'gp': 5, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_de_Olimpia_2022_PNG_HD.png'},
         ],
     }
     sula_data = { # PREENCHA COM SEUS DADOS COMPLETOS E URLs DE ESCUDO
         "A": [
             {'nome': 'Independiente', 'pontos': 9, 'jogos': 5, 'gp': 9, 'gc': 6, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Independiente.svg.png'},
             {'nome': 'Guaraní', 'pontos': 8, 'jogos': 5, 'gp': 9, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/7f/ClubGuaran%C3%AD.png'},
-            {'nome': 'Nacional Potosí', 'pontos': 4, 'jogos': 5, 'gp': 8, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Club_Atletico_Nacional_Potosi.svg/671px-Club_Atletico_Nacional_Potosi.svg.png'},
-            {'nome': 'Boston River', 'pontos': 1, 'jogos': 5, 'gp': 5, 'gc': 14, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Escudo_Boston_River_2019.png/1200px-Escudo_Boston_River_2019.png'},
+            {'nome': 'Nacional Potosí', 'pontos': 7, 'jogos': 5, 'gp': 8, 'gc': 6, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Club_Atletico_Nacional_Potosi.svg/671px-Club_Atletico_Nacional_Potosi.svg.png'},
+            {'nome': 'Boston River', 'pontos': 4, 'jogos': 5, 'gp': 7, 'gc': 14, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Escudo_Boston_River_2019.png/1200px-Escudo_Boston_River_2019.png'},
         ],
         "B": [
-            {'nome': 'Universidad Católica', 'pontos': 9, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/d/db/UniversidadCat%C3%B3licaECU.png'},
+            {'nome': 'Universidad Católica', 'pontos': 11, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/d/db/UniversidadCat%C3%B3licaECU.png'},
             {'nome': 'Vitória', 'pontos': 6, 'jogos': 5, 'gp': 3, 'gc': 3, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/34/Esporte_Clube_Vit%C3%B3ria_logo.png'},
-            {'nome': 'Defensa y Justicia', 'pontos': 4, 'jogos': 5, 'gp': 5, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/d/db/EscudoDefensayjustica.png'},
+            {'nome': 'Defensa y Justicia', 'pontos': 4, 'jogos': 5, 'gp': 3, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/d/db/EscudoDefensayjustica.png'},
             {'nome': 'Cerro Largo', 'pontos': 1, 'jogos': 5, 'gp': 3, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Escudo_Cerro_Largo_F%C3%BAtbol_Club.png/640px-Escudo_Cerro_Largo_F%C3%BAtbol_Club.png'},
         ],
          "C": [
@@ -91,9 +91,9 @@ def inicializar_dados_times_st():
         ],
         "E": [
             {'nome': 'Mushuc Runa', 'pontos': 13, 'jogos': 5, 'gp': 10, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/39/Mushuc_Runa_SC.png'},
-            {'nome': 'Palestino', 'pontos': 9, 'jogos': 5, 'gp': 5, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/72/CDPalestino.png'},
-            {'nome': 'Cruzeiro', 'pontos': 4, 'jogos': 5, 'gp': 2, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Cruzeiro_1996.png'},
-            {'nome': 'Unión', 'pontos': 3, 'jogos': 5, 'gp': 5, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Escudo_del_Club_Atl%C3%A9tico_Uni%C3%B3n.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Uni%C3%B3n.svg.png'},
+            {'nome': 'Palestino', 'pontos': 9, 'jogos': 5, 'gp': 9, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/72/CDPalestino.png'},
+            {'nome': 'Cruzeiro', 'pontos': 4, 'jogos': 5, 'gp': 5, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Cruzeiro_1996.png'},
+            {'nome': 'Unión', 'pontos': 3, 'jogos': 5, 'gp': 2, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Escudo_del_Club_Atl%C3%A9tico_Uni%C3%B3n.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Uni%C3%B3n.svg.png'},
         ],
         "F": [
             {'nome': 'Once Caldas', 'pontos': 12, 'jogos': 5, 'gp': 8, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Once_Caldas_logo-svg.svg/1693px-Once_Caldas_logo-svg.svg.png'},
@@ -104,8 +104,8 @@ def inicializar_dados_times_st():
         "G": [
             {'nome': 'Lanús', 'pontos': 12, 'jogos': 6, 'gp': 9, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lanus_Atualiza.png/1024px-Lanus_Atualiza.png'},
             {'nome': 'Vasco', 'pontos': 8, 'jogos': 6, 'gp': 8, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/a/ac/CRVascodaGama.png'},
-            {'nome': 'FBC Melgar', 'pontos': 7, 'jogos': 6, 'gp': 6, 'gc': 10, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/2/26/Foot_Ball_Club_Melgar.png'},
-            {'nome': 'Academia Puerto Cabello', 'pontos': 5, 'jogos': 6, 'gp': 5, 'gc': 6, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/a/a7/Academia_Puerto_Cabello.png'},
+            {'nome': 'FBC Melgar', 'pontos': 7, 'jogos': 6, 'gp': 5, 'gc': 10, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/2/26/Foot_Ball_Club_Melgar.png'},
+            {'nome': 'Academia Puerto Cabello', 'pontos': 5, 'jogos': 6, 'gp': 8, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/a/a7/Academia_Puerto_Cabello.png'},
         ],
         "H": [
             {'nome': 'Cienciano', 'pontos': 9, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Escudo_Cienciano.png/960px-Escudo_Cienciano.png'},
