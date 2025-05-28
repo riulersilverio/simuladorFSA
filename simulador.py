@@ -36,31 +36,31 @@ def inicializar_dados_times_st():
         "D": [
             {'nome': 'São Paulo', 'pontos': 14, 'jogos': 6, 'gp': 10, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/2054px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png'},
             {'nome': 'Libertad', 'pontos': 9, 'jogos': 6, 'gp': 6, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/6/6b/Club_Libertad.png'},
-            {'nome': 'Alianza Lima', 'pontos': 5, 'jogos': 6, 'gp': 7, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/6/6b/Club_Libertad.png'},
+            {'nome': 'Alianza Lima', 'pontos': 5, 'jogos': 6, 'gp': 7, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_Alianza_Lima.svg/1611px-Escudo_Alianza_Lima.svg.png'},
             {'nome': 'Talleres', 'pontos': 4, 'jogos': 6, 'gp': 5, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Escudo_Talleres_2015.svg/1200px-Escudo_Talleres_2015.svg.png'},
         ],
         "E": [
-            {'nome': 'Racing Club', 'pontos': 10, 'jogos': 5, 'gp': 13, 'gc': 3, 'escudo_url': ''},
-            {'nome': 'Fortaleza', 'pontos': 8, 'jogos': 5, 'gp': 8, 'gc': 4, 'escudo_url': ''},
-            {'nome': 'Atlético Bucaramanga', 'pontos': 2, 'jogos': 5, 'gp': 6, 'gc': 9, 'escudo_url': ''},
-            {'nome': 'Colo-Colo', 'pontos': 2, 'jogos': 5, 'gp': 4, 'gc': 15, 'escudo_url': ''},
+            {'nome': 'Racing Club', 'pontos': 10, 'jogos': 5, 'gp': 13, 'gc': 3, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/1686px-Escudo_de_Racing_Club_%282014%29.svg.png'},
+            {'nome': 'Fortaleza', 'pontos': 8, 'jogos': 5, 'gp': 8, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Escudo_do_Fortaleza_EC.png'},
+            {'nome': 'Atlético Bucaramanga', 'pontos': 2, 'jogos': 5, 'gp': 6, 'gc': 9, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/3b/CAtl%C3%A9ticoBucaramangaCD.png'},
+            {'nome': 'Colo-Colo', 'pontos': 2, 'jogos': 5, 'gp': 4, 'gc': 15, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/e/e8/Colo-Colo_Futbol_Club.png'},
         ],
         "F": [
-            {'nome': 'Atlético Nacional', 'pontos': 9, 'jogos': 5, 'gp': 7, 'gc': 5, 'escudo_url': ''},
-            {'nome': 'Internacional', 'pontos': 8, 'jogos': 5, 'gp': 10, 'gc': 7, 'escudo_url': ''},
-            {'nome': 'Bahia', 'pontos': 7, 'jogos': 5, 'gp': 4, 'gc': 5, 'escudo_url': ''},
-            {'nome': 'Nacional', 'pontos': 4, 'jogos': 5, 'gp': 4, 'gc': 10, 'escudo_url': ''},
+            {'nome': 'Atlético Nacional', 'pontos': 9, 'jogos': 5, 'gp': 7, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Atl%C3%A9tico_Nacional.png'},
+            {'nome': 'Internacional', 'pontos': 8, 'jogos': 5, 'gp': 10, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_do_Sport_Club_Internacional.svg'},
+            {'nome': 'Bahia', 'pontos': 7, 'jogos': 5, 'gp': 4, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/9/90/ECBahia.png'},
+            {'nome': 'Nacional', 'pontos': 4, 'jogos': 5, 'gp': 4, 'gc': 10, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Escudo_del_Club_Nacional_de_Football.svg/1024px-Escudo_del_Club_Nacional_de_Football.svg.png'},
         ],
         "G": [
             {'nome': 'Palmeiras', 'pontos': 15, 'jogos': 5, 'gp': 11, 'gc': 4, 'escudo_url': 'https://s.sambafoot.com/teams/64_20231206044820.svg'},
             {'nome': 'Cerro Porteño', 'pontos': 7, 'jogos': 5, 'gp': 7, 'gc': 7, 'escudo_url': ''},
-            {'nome': 'Sporting Cristal', 'pontos': 4, 'jogos': 5, 'gp': 6, 'gc': 10, 'escudo_url': ''},
+            {'nome': 'Sporting Cristal', 'pontos': 4, 'jogos': 5, 'gp': 6, 'gc': 10, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Escudo_del_Club_Sporting_Cristal.svg/1200px-Escudo_del_Club_Sporting_Cristal.svg.png'},
             {'nome': 'Bolívar', 'pontos': 3, 'jogos': 5, 'gp': 8, 'gc': 11, 'escudo_url': ''},
         ],
         "H": [
             {'nome': 'Vélez Sarsfield', 'pontos': 10, 'jogos': 5, 'gp': 11, 'gc': 4, 'escudo_url': ''},
             {'nome': 'Peñarol', 'pontos': 10, 'jogos': 5, 'gp': 9, 'gc': 4, 'escudo_url': ''},
-            {'nome': 'San Antonio Bulo Bulo', 'pontos': 6, 'jogos': 5, 'gp': 5, 'gc': 11, 'escudo_url': ''},
+            {'nome': 'San Antonio Bulo Bulo', 'pontos': 6, 'jogos': 5, 'gp': 5, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/c/c8/CD_San_Antonio_Bulo_Bulo.png'},
             {'nome': 'Olimpia', 'pontos': 2, 'jogos': 5, 'gp': 6, 'gc': 11, 'escudo_url': ''},
         ],
     }
@@ -73,7 +73,7 @@ def inicializar_dados_times_st():
         ],
         "B": [
             {'nome': 'Universidad Católica', 'pontos': 9, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': ''},
-            {'nome': 'Vitória', 'pontos': 6, 'jogos': 5, 'gp': 3, 'gc': 3, 'escudo_url': ''},
+            {'nome': 'Vitória', 'pontos': 6, 'jogos': 5, 'gp': 3, 'gc': 3, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/34/Esporte_Clube_Vit%C3%B3ria_logo.png'},
             {'nome': 'Defensa y Justicia', 'pontos': 4, 'jogos': 5, 'gp': 5, 'gc': 5, 'escudo_url': ''},
             {'nome': 'Cerro Largo', 'pontos': 1, 'jogos': 5, 'gp': 3, 'gc': 7, 'escudo_url': ''},
         ],
@@ -85,13 +85,13 @@ def inicializar_dados_times_st():
         ],
         "D": [
             {'nome': 'Godoy Cruz', 'pontos': 11, 'jogos': 5, 'gp': 8, 'gc': 3, 'escudo_url': ''},
-            {'nome': 'Grêmio', 'pontos': 9, 'jogos': 5, 'gp': 7, 'gc': 4, 'escudo_url': 'https://s.sambafoot.com/teams/54_20221114053920.svg'},
+            {'nome': 'Grêmio', 'pontos': 9, 'jogos': 5, 'gp': 7, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1718px-Gremio_logo.svg.png'},
             {'nome': 'Atlético Grau', 'pontos': 3, 'jogos': 5, 'gp': 3, 'gc': 7, 'escudo_url': ''},
             {'nome': 'Sportivo Luqueño', 'pontos': 2, 'jogos': 5, 'gp': 4, 'gc': 8, 'escudo_url': ''},
         ],
         "E": [
             {'nome': 'Mushuc Runa', 'pontos': 13, 'jogos': 5, 'gp': 10, 'gc': 4, 'escudo_url': ''},
-            {'nome': 'Palestino', 'pontos': 4, 'jogos': 5, 'gp': 5, 'gc': 7, 'escudo_url': ''},
+            {'nome': 'Palestino', 'pontos': 4, 'jogos': 5, 'gp': 5, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/72/CDPalestino.png'},
             {'nome': 'Cruzeiro', 'pontos': 4, 'jogos': 5, 'gp': 2, 'gc': 7, 'escudo_url': ''},
             {'nome': 'Unión', 'pontos': 3, 'jogos': 5, 'gp': 5, 'gc': 8, 'escudo_url': ''},
         ],
@@ -103,15 +103,15 @@ def inicializar_dados_times_st():
         ],
         "G": [
             {'nome': 'Lanús', 'pontos': 12, 'jogos': 6, 'gp': 9, 'gc': 4, 'escudo_url': ''},
-            {'nome': 'Vasco', 'pontos': 8, 'jogos': 6, 'gp': 8, 'gc': 8, 'escudo_url': 'https://s.sambafoot.com/teams/69_20220411030515.svg'},
+            {'nome': 'Vasco', 'pontos': 8, 'jogos': 6, 'gp': 8, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/a/ac/CRVascodaGama.png'},
             {'nome': 'FBC Melgar', 'pontos': 7, 'jogos': 6, 'gp': 6, 'gc': 10, 'escudo_url': ''},
             {'nome': 'Academia Puerto Cabello', 'pontos': 5, 'jogos': 6, 'gp': 5, 'gc': 6, 'escudo_url': ''},
         ],
         "H": [
-            {'nome': 'Cienciano', 'pontos': 9, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': ''},
-            {'nome': 'Atlético Mineiro', 'pontos': 8, 'jogos': 5, 'gp': 10, 'gc': 5, 'escudo_url': 'https://s.sambafoot.com/teams/40_20230309010035.svg'},
-            {'nome': 'Caracas FC', 'pontos': 5, 'jogos': 5, 'gp': 7, 'gc': 10, 'escudo_url': ''},
-            {'nome': 'Deportes Iquique', 'pontos': 4, 'jogos': 5, 'gp': 6, 'gc': 14, 'escudo_url': ''},
+            {'nome': 'Cienciano', 'pontos': 9, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Escudo_Cienciano.png/960px-Escudo_Cienciano.png'},
+            {'nome': 'Atlético Mineiro', 'pontos': 8, 'jogos': 5, 'gp': 10, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Atletico_mineiro_galo.png'},
+            {'nome': 'Caracas FC', 'pontos': 5, 'jogos': 5, 'gp': 7, 'gc': 10, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/f/f4/Caracas_FC.png'},
+            {'nome': 'Deportes Iquique', 'pontos': 4, 'jogos': 5, 'gp': 6, 'gc': 14, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/f/f4/Caracas_FC.png'},
         ],
     }
 
