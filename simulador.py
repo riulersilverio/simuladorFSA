@@ -75,7 +75,7 @@ def inicializar_dados_times_st():
             {'nome': 'Universidad Católica', 'pontos': 11, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/d/db/UniversidadCat%C3%B3licaECU.png'},
             {'nome': 'Vitória', 'pontos': 6, 'jogos': 5, 'gp': 3, 'gc': 3, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/34/Esporte_Clube_Vit%C3%B3ria_logo.png'},
             {'nome': 'Defensa y Justicia', 'pontos': 4, 'jogos': 5, 'gp': 3, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/d/db/EscudoDefensayjustica.png'},
-            {'nome': 'Cerro Largo', 'pontos': 1, 'jogos': 5, 'gp': 3, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Escudo_Cerro_Largo_F%C3%BAtbol_Club.png/640px-Escudo_Cerro_Largo_F%C3%BAtbol_Club.png'},
+            {'nome': 'Cerro Largo', 'pontos': 4, 'jogos': 5, 'gp': 3, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Escudo_Cerro_Largo_F%C3%BAtbol_Club.png/640px-Escudo_Cerro_Largo_F%C3%BAtbol_Club.png'},
         ],
          "C": [
             {'nome': 'Huracán', 'pontos': 14, 'jogos': 6, 'gp': 11, 'gc': 2, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg/1262px-Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg.png'},
