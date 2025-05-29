@@ -16,7 +16,7 @@ def inicializar_dados_times_st():
     # IMPORTANTE: Substitua 'URL_ESCUDO_...' pelas URLs reais dos escudos dos times
     lib_data = { # PREENCHA COM SEUS DADOS COMPLETOS E URLs DE ESCUDO
         "A": [
-            {'nome': 'Estudiantes', 'pontos': 12, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Escudo_del_Club_Estudiantes_de_La_Plata.svg/824px-Escudo_del_Club_Estudiantes_de_La_Plata.svg.png'},
+            {'nome': 'Estudiantes', 'pontos': 12, 'jogos': 6, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Escudo_del_Club_Estudiantes_de_La_Plata.svg/824px-Escudo_del_Club_Estudiantes_de_La_Plata.svg.png'},
             {'nome': 'Botafogo', 'pontos': 12, 'jogos': 6, 'gp': 8, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Escudo_Botafogo.png'},
             {'nome': 'Universidad de Chile', 'pontos': 10, 'jogos': 6, 'gp': 8, 'gc': 6, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/5/50/C.F._Universidad_de_Chile_logo.png'},
             {'nome': 'Carabobo', 'pontos': 1, 'jogos': 6, 'gp': 2, 'gc': 13, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/8/88/Carabobo_F.C.png'},
@@ -28,10 +28,10 @@ def inicializar_dados_times_st():
             {'nome': 'Barcelona SC', 'pontos': 4, 'jogos': 6, 'gp': 4, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Barcelona_Sporting_Club_Logo.png'},
         ],
         "C": [
-            {'nome': 'Central Córdoba S.Estero', 'pontos': 11, 'jogos': 5, 'gp': 7, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero.svg/1200px-Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero.svg.png'},
-            {'nome': 'Flamengo', 'pontos': 8, 'jogos': 5, 'gp': 5, 'gc': 3, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png'},
-            {'nome': 'LDU Quito', 'pontos': 8, 'jogos': 5, 'gp': 5, 'gc': 4, 'escudo_url': 'https://logodetimes.com/times/ldu-liga-de-quito/logo-ldu-liga-de-quito-1536.png'},
-            {'nome': 'Deportivo Táchira', 'pontos': 0, 'jogos': 5, 'gp': 4, 'gc': 10, 'escudo_url': 'https://www.ogol.com.br/img/logos/equipas/2409_imgbank_1741861903.png'},
+            {'nome': 'Central Córdoba S.Estero', 'pontos': 11, 'jogos': 6, 'gp': 7, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero.svg/1200px-Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero.svg.png'},
+            {'nome': 'Flamengo', 'pontos': 11, 'jogos': 6, 'gp': 6, 'gc': 3, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png'},
+            {'nome': 'LDU Quito', 'pontos': 11, 'jogos': 6, 'gp': 8, 'gc': 4, 'escudo_url': 'https://logodetimes.com/times/ldu-liga-de-quito/logo-ldu-liga-de-quito-1536.png'},
+            {'nome': 'Deportivo Táchira', 'pontos': 0, 'jogos': 6, 'gp': 4, 'gc': 11, 'escudo_url': 'https://www.ogol.com.br/img/logos/equipas/2409_imgbank_1741861903.png'},
         ],
         "D": [
             {'nome': 'São Paulo', 'pontos': 14, 'jogos': 6, 'gp': 10, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/2054px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png'},
@@ -46,16 +46,16 @@ def inicializar_dados_times_st():
             {'nome': 'Colo-Colo', 'pontos': 2, 'jogos': 5, 'gp': 4, 'gc': 15, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/e/e8/Colo-Colo_Futbol_Club.png'},
         ],
         "F": [
-            {'nome': 'Atlético Nacional', 'pontos': 9, 'jogos': 5, 'gp': 7, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Atl%C3%A9tico_Nacional.png'},
-            {'nome': 'Internacional', 'pontos': 8, 'jogos': 5, 'gp': 10, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_do_Sport_Club_Internacional.svg'},
-            {'nome': 'Bahia', 'pontos': 7, 'jogos': 5, 'gp': 4, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/9/90/ECBahia.png'},
-            {'nome': 'Nacional', 'pontos': 4, 'jogos': 5, 'gp': 4, 'gc': 10, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Escudo_del_Club_Nacional_de_Football.svg/1024px-Escudo_del_Club_Nacional_de_Football.svg.png'},
+            {'nome': 'Atlético Nacional', 'pontos': 9, 'jogos': 6, 'gp': 7, 'gc': 6, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Atl%C3%A9tico_Nacional.png'},
+            {'nome': 'Internacional', 'pontos': 11, 'jogos': 6, 'gp': 12, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_do_Sport_Club_Internacional.svg'},
+            {'nome': 'Bahia', 'pontos': 7, 'jogos': 6, 'gp': 5, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/9/90/ECBahia.png'},
+            {'nome': 'Nacional', 'pontos': 7, 'jogos': 6, 'gp': 5, 'gc': 10, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Escudo_del_Club_Nacional_de_Football.svg/1024px-Escudo_del_Club_Nacional_de_Football.svg.png'},
         ],
         "G": [
-            {'nome': 'Palmeiras', 'pontos': 15, 'jogos': 5, 'gp': 11, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/2048px-Palmeiras_logo.svg.png'},
-            {'nome': 'Cerro Porteño', 'pontos': 7, 'jogos': 5, 'gp': 7, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Escudo_del_Club_Cerro_Porte%C3%B1o.png'},
-            {'nome': 'Sporting Cristal', 'pontos': 4, 'jogos': 5, 'gp': 6, 'gc': 10, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Escudo_del_Club_Sporting_Cristal.svg/1200px-Escudo_del_Club_Sporting_Cristal.svg.png'},
-            {'nome': 'Bolívar', 'pontos': 3, 'jogos': 5, 'gp': 8, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_bolivar.png/538px-Emblem_bolivar.png'},
+            {'nome': 'Palmeiras', 'pontos': 18, 'jogos': 6, 'gp': 17, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/2048px-Palmeiras_logo.svg.png'},
+            {'nome': 'Cerro Porteño', 'pontos': 7, 'jogos': 6, 'gp': 7, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Escudo_del_Club_Cerro_Porte%C3%B1o.png'},
+            {'nome': 'Sporting Cristal', 'pontos': 4, 'jogos': 6, 'gp': 6, 'gc': 16, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Escudo_del_Club_Sporting_Cristal.svg/1200px-Escudo_del_Club_Sporting_Cristal.svg.png'},
+            {'nome': 'Bolívar', 'pontos': 6, 'jogos': 6, 'gp': 12, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_bolivar.png/538px-Emblem_bolivar.png'},
         ],
         "H": [
             {'nome': 'Vélez Sarsfield', 'pontos': 10, 'jogos': 5, 'gp': 11, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/2/21/Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg'},
@@ -66,16 +66,16 @@ def inicializar_dados_times_st():
     }
     sula_data = { # PREENCHA COM SEUS DADOS COMPLETOS E URLs DE ESCUDO
         "A": [
-            {'nome': 'Independiente', 'pontos': 9, 'jogos': 5, 'gp': 9, 'gc': 6, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Independiente.svg.png'},
-            {'nome': 'Guaraní', 'pontos': 8, 'jogos': 5, 'gp': 9, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/7f/ClubGuaran%C3%AD.png'},
-            {'nome': 'Nacional Potosí', 'pontos': 7, 'jogos': 5, 'gp': 8, 'gc': 6, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Club_Atletico_Nacional_Potosi.svg/671px-Club_Atletico_Nacional_Potosi.svg.png'},
-            {'nome': 'Boston River', 'pontos': 4, 'jogos': 5, 'gp': 7, 'gc': 14, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Escudo_Boston_River_2019.png/1200px-Escudo_Boston_River_2019.png'},
+            {'nome': 'Independiente', 'pontos': 12, 'jogos': 6, 'gp': 16, 'gc': 6, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Independiente.svg.png'},
+            {'nome': 'Guaraní', 'pontos': 8, 'jogos': 6, 'gp': 9, 'gc': 12, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/7f/ClubGuaran%C3%AD.png'},
+            {'nome': 'Nacional Potosí', 'pontos': 7, 'jogos': 6, 'gp': 8, 'gc': 13, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Club_Atletico_Nacional_Potosi.svg/671px-Club_Atletico_Nacional_Potosi.svg.png'},
+            {'nome': 'Boston River', 'pontos': 7, 'jogos': 5, 'gp': 12, 'gc': 14, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Escudo_Boston_River_2019.png/1200px-Escudo_Boston_River_2019.png'},
         ],
         "B": [
-            {'nome': 'Universidad Católica', 'pontos': 11, 'jogos': 5, 'gp': 11, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/d/db/UniversidadCat%C3%B3licaECU.png'},
-            {'nome': 'Vitória', 'pontos': 6, 'jogos': 5, 'gp': 3, 'gc': 3, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/34/Esporte_Clube_Vit%C3%B3ria_logo.png'},
-            {'nome': 'Defensa y Justicia', 'pontos': 4, 'jogos': 5, 'gp': 3, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/d/db/EscudoDefensayjustica.png'},
-            {'nome': 'Cerro Largo', 'pontos': 4, 'jogos': 5, 'gp': 3, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Escudo_Cerro_Largo_F%C3%BAtbol_Club.png/640px-Escudo_Cerro_Largo_F%C3%BAtbol_Club.png'},
+            {'nome': 'Universidad Católica', 'pontos': 14, 'jogos': 6, 'gp': 12, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/d/db/UniversidadCat%C3%B3licaECU.png'},
+            {'nome': 'Vitória', 'pontos': 6, 'jogos': 6, 'gp': 3, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/34/Esporte_Clube_Vit%C3%B3ria_logo.png'},
+            {'nome': 'Defensa y Justicia', 'pontos': 4, 'jogos': 6, 'gp': 4, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/d/db/EscudoDefensayjustica.png'},
+            {'nome': 'Cerro Largo', 'pontos': 7, 'jogos': 6, 'gp': 5, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Escudo_Cerro_Largo_F%C3%BAtbol_Club.png/640px-Escudo_Cerro_Largo_F%C3%BAtbol_Club.png'},
         ],
          "C": [
             {'nome': 'Huracán', 'pontos': 14, 'jogos': 6, 'gp': 11, 'gc': 2, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg/1262px-Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg.png'},
@@ -90,10 +90,10 @@ def inicializar_dados_times_st():
             {'nome': 'Sportivo Luqueño', 'pontos': 2, 'jogos': 5, 'gp': 4, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/c/ca/Club_Sportivo_Luqueno.png'},
         ],
         "E": [
-            {'nome': 'Mushuc Runa', 'pontos': 13, 'jogos': 5, 'gp': 10, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/39/Mushuc_Runa_SC.png'},
-            {'nome': 'Palestino', 'pontos': 9, 'jogos': 5, 'gp': 9, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/72/CDPalestino.png'},
-            {'nome': 'Cruzeiro', 'pontos': 4, 'jogos': 5, 'gp': 5, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Cruzeiro_1996.png'},
-            {'nome': 'Unión', 'pontos': 3, 'jogos': 5, 'gp': 2, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Escudo_del_Club_Atl%C3%A9tico_Uni%C3%B3n.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Uni%C3%B3n.svg.png'},
+            {'nome': 'Mushuc Runa', 'pontos': 16, 'jogos': 6, 'gp': 12, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/3/39/Mushuc_Runa_SC.png'},
+            {'nome': 'Palestino', 'pontos': 9, 'jogos': 6, 'gp': 9, 'gc': 9, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/7/72/CDPalestino.png'},
+            {'nome': 'Cruzeiro', 'pontos': 5, 'jogos': 6, 'gp': 5, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Cruzeiro_1996.png'},
+            {'nome': 'Unión', 'pontos': 4, 'jogos': 6, 'gp': 2, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Escudo_del_Club_Atl%C3%A9tico_Uni%C3%B3n.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Uni%C3%B3n.svg.png'},
         ],
         "F": [
             {'nome': 'Once Caldas', 'pontos': 12, 'jogos': 5, 'gp': 8, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Once_Caldas_logo-svg.svg/1693px-Once_Caldas_logo-svg.svg.png'},
@@ -132,22 +132,6 @@ def inicializar_dados_times_st():
 
 def inicializar_jogos_pendentes_st():
     jogos_completos = [ # PREENCHA COM SEUS DADOS COMPLETOS
-        {'competicao': 'Libertadores', 'grupo': 'F', 'data': '28/05', 'casa': 'Nacional', 'visitante': 'Atlético Nacional', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Libertadores', 'grupo': 'F', 'data': '28/05', 'casa': 'Internacional', 'visitante': 'Bahia', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Libertadores', 'grupo': 'G', 'data': '28/05', 'casa': 'Bolívar', 'visitante': 'Cerro Porteño', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Libertadores', 'grupo': 'C', 'data': '28/05', 'casa': 'Flamengo', 'visitante': 'Deportivo Táchira', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Libertadores', 'grupo': 'G', 'data': '28/05', 'casa': 'Palmeiras', 'visitante': 'Sporting Cristal', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Libertadores', 'grupo': 'C', 'data': '28/05', 'casa': 'LDU Quito', 'visitante': 'Central Córdoba S.Estero', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Libertadores', 'grupo': 'H', 'data': '29/05', 'casa': 'Peñarol', 'visitante': 'Vélez Sarsfield', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Libertadores', 'grupo': 'H', 'data': '29/05', 'casa': 'Olimpia', 'visitante': 'San Antonio Bulo Bulo', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Libertadores', 'grupo': 'E', 'data': '29/05', 'casa': 'Colo-Colo', 'visitante': 'Atlético Bucaramanga', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Libertadores', 'grupo': 'E', 'data': '29/05', 'casa': 'Racing Club', 'visitante': 'Fortaleza', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Sul-Americana', 'grupo': 'A', 'data': '28/05', 'casa': 'Guaraní', 'visitante': 'Boston River', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Sul-Americana', 'grupo': 'A', 'data': '28/05', 'casa': 'Independiente', 'visitante': 'Nacional Potosí', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Sul-Americana', 'grupo': 'E', 'data': '28/05', 'casa': 'Palestino', 'visitante': 'Mushuc Runa', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Sul-Americana', 'grupo': 'B', 'data': '28/05', 'casa': 'Universidad Católica', 'visitante': 'Vitória', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Sul-Americana', 'grupo': 'B', 'data': '28/05', 'casa': 'Defensa y Justicia', 'visitante': 'Cerro Largo', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Sul-Americana', 'grupo': 'E', 'data': '28/05', 'casa': 'Cruzeiro', 'visitante': 'Unión', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
         {'competicao': 'Sul-Americana', 'grupo': 'D', 'data': '29/05', 'casa': 'Grêmio', 'visitante': 'Sportivo Luqueño', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
         {'competicao': 'Sul-Americana', 'grupo': 'D', 'data': '29/05', 'casa': 'Godoy Cruz', 'visitante': 'Atlético Grau', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
         {'competicao': 'Sul-Americana', 'grupo': 'H', 'data': '29/05', 'casa': 'Caracas FC', 'visitante': 'Deportes Iquique', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
