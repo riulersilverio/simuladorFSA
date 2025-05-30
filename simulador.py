@@ -58,10 +58,10 @@ def inicializar_dados_times_st():
             {'nome': 'Bolívar', 'pontos': 6, 'jogos': 6, 'gp': 12, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_bolivar.png/538px-Emblem_bolivar.png'},
         ],
         "H": [
-            {'nome': 'Vélez Sarsfield', 'pontos': 10, 'jogos': 5, 'gp': 11, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/2/21/Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg'},
-            {'nome': 'Peñarol', 'pontos': 10, 'jogos': 5, 'gp': 9, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Escudo_de_Pe%C3%B1arol.svg/1200px-Escudo_de_Pe%C3%B1arol.svg.png'},
+            {'nome': 'Vélez Sarsfield', 'pontos': 11, 'jogos': 6, 'gp': 11, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/2/21/Escudo_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield.svg'},
+            {'nome': 'Peñarol', 'pontos': 11, 'jogos': 6, 'gp': 9, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Escudo_de_Pe%C3%B1arol.svg/1200px-Escudo_de_Pe%C3%B1arol.svg.png'},
             {'nome': 'San Antonio Bulo Bulo', 'pontos': 6, 'jogos': 5, 'gp': 5, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/pt/c/c8/CD_San_Antonio_Bulo_Bulo.png'},
-            {'nome': 'Olimpia', 'pontos': 2, 'jogos': 5, 'gp': 5, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_de_Olimpia_2022_PNG_HD.png'},
+            {'nome': 'Olimpia', 'pontos': 5, 'jogos': 5, 'gp': 9, 'gc': 11, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_de_Olimpia_2022_PNG_HD.png'},
         ],
     }
     sula_data = { # PREENCHA COM SEUS DADOS COMPLETOS E URLs DE ESCUDO
@@ -84,8 +84,8 @@ def inicializar_dados_times_st():
             {'nome': 'América de Cali(COL)', 'pontos': 8, 'jogos': 6, 'gp': 6, 'gc': 4, 'escudo_url': 'https://www.ogol.com.br/img/logos/equipas/2292_imgbank_1688117075.png'},
         ],
         "D": [
-            {'nome': 'Godoy Cruz', 'pontos': 11, 'jogos': 5, 'gp': 8, 'gc': 3, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_CD_Godoy_Cruz_Antonio_Tomba.png'},
-            {'nome': 'Grêmio', 'pontos': 9, 'jogos': 5, 'gp': 7, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1718px-Gremio_logo.svg.png'},
+            {'nome': 'Godoy Cruz', 'pontos': 12, 'jogos': 6, 'gp': 10, 'gc': 5, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_CD_Godoy_Cruz_Antonio_Tomba.png'},
+            {'nome': 'Grêmio', 'pontos': 12, 'jogos': 5, 'gp': 8, 'gc': 4, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1718px-Gremio_logo.svg.png'},
             {'nome': 'Atlético Grau', 'pontos': 3, 'jogos': 5, 'gp': 3, 'gc': 7, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_CD_Godoy_Cruz_Antonio_Tomba.png'},
             {'nome': 'Sportivo Luqueño', 'pontos': 2, 'jogos': 5, 'gp': 4, 'gc': 8, 'escudo_url': 'https://upload.wikimedia.org/wikipedia/commons/c/ca/Club_Sportivo_Luqueno.png'},
         ],
@@ -132,8 +132,8 @@ def inicializar_dados_times_st():
 
 def inicializar_jogos_pendentes_st():
     jogos_completos = [ # PREENCHA COM SEUS DADOS COMPLETOS
-        {'competicao': 'Sul-Americana', 'grupo': 'D', 'data': '29/05', 'casa': 'Grêmio', 'visitante': 'Sportivo Luqueño', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Sul-Americana', 'grupo': 'D', 'data': '29/05', 'casa': 'Godoy Cruz', 'visitante': 'Atlético Grau', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
+        {'competicao': 'Libertadores', 'grupo': 'E', 'data': '29/05', 'casa': 'Racing Club', 'visitante': 'Fortaleza', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
+        {'competicao': 'Sul-Americana', 'grupo': 'E', 'data': '29/05', 'casa': 'Colo-colo', 'visitante': 'Atlético Bucaramanga', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
         {'competicao': 'Sul-Americana', 'grupo': 'H', 'data': '29/05', 'casa': 'Caracas FC', 'visitante': 'Deportes Iquique', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
         {'competicao': 'Sul-Americana', 'grupo': 'H', 'data': '29/05', 'casa': 'Atlético Mineiro', 'visitante': 'Cienciano', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
         {'competicao': 'Sul-Americana', 'grupo': 'F', 'data': '29/05', 'casa': 'Unión Española', 'visitante': 'Gualberto Villarroel', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
