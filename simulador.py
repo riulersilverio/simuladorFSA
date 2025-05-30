@@ -133,7 +133,7 @@ def inicializar_dados_times_st():
 def inicializar_jogos_pendentes_st():
     jogos_completos = [ # PREENCHA COM SEUS DADOS COMPLETOS
         {'competicao': 'Libertadores', 'grupo': 'E', 'data': '29/05', 'casa': 'Racing Club', 'visitante': 'Fortaleza', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
-        {'competicao': 'Sul-Americana', 'grupo': 'E', 'data': '29/05', 'casa': 'Colo-colo', 'visitante': 'Atlético Bucaramanga', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
+        {'competicao': 'Libertadores', 'grupo': 'E', 'data': '29/05', 'casa': 'Colo-colo', 'visitante': 'Atlético Bucaramanga', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
         {'competicao': 'Sul-Americana', 'grupo': 'H', 'data': '29/05', 'casa': 'Caracas FC', 'visitante': 'Deportes Iquique', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
         {'competicao': 'Sul-Americana', 'grupo': 'H', 'data': '29/05', 'casa': 'Atlético Mineiro', 'visitante': 'Cienciano', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
         {'competicao': 'Sul-Americana', 'grupo': 'F', 'data': '29/05', 'casa': 'Unión Española', 'visitante': 'Gualberto Villarroel', 'simulado': False, 'gols_casa': 0, 'gols_visitante': 0},
